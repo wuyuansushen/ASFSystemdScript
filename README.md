@@ -13,7 +13,7 @@ mkdir /usr/bin/ArchiSteamFarm
 unzip -d /usr/bin/ArchiSteamFarm ASF-linux-x64.zip
 ```
 
-> :warning: **ASF-linux-x64.zip** must be extracted in */usr/bin* because of *SELinux*.
+> :warning: **ASF-linux-x64.zip** must be extracted in **/usr/bin** because of **SELinux**.
 
 ## 3.Enbale ArchiSteamFarm.service
 
