@@ -1,0 +1,12 @@
+[Unit]
+Description=Steam trade cards
+
+[Service]
+ExecStart=/usr/bin/ArchiSteamFarm/ArchiSteamFarm
+KillSignal=SIGINT
+SyslogIdentifier=ArchiSteamFarm
+User=root
+Environment=DOTNET_BUNDLE_EXTRACT_BASE_DIR=/tmp
+
+[Install]
+WantedBy=multi-user.target
