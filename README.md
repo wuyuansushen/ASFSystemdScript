@@ -23,4 +23,4 @@ systemctl daemon-reload
 systemctl start ArchiSteamFarm.service
 ```
 
-> Tips: If you want to run it automatically after `reboot`, Please run `systemctl enable ArchiSteamFarm.service`
+> Tips :zany_face: : If you want to run it automatically after `reboot`, Please run `systemctl enable ArchiSteamFarm.service`
