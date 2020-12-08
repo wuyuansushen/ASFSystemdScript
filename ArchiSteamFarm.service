@@ -1,5 +1,5 @@
 [Unit]
-Description=Steam trade cards
+Description=Obtain Steam tradable cards without playing games.
 
 [Service]
 ExecStart=/usr/bin/ArchiSteamFarm/ArchiSteamFarm
