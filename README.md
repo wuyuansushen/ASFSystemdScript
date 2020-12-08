@@ -6,7 +6,7 @@ Download [here](https://github.com/JustArchiNET/ArchiSteamFarm/releases)
 
 ## 2.Extracted downloaded package
 
-Extract **ASF-linux-x64.zip** to Directory */usr/bin/ArchiSteamFarm*
+Extract **ASF-linux-x64.zip** to Directory **/usr/bin/ArchiSteamFarm**
 
 ```
 mkdir /usr/bin/ArchiSteamFarm
