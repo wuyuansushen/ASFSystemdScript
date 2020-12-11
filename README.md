@@ -11,6 +11,7 @@ Extract **ASF-linux-x64.zip** to Directory **/usr/bin/ArchiSteamFarm**
 ```
 mkdir /usr/bin/ArchiSteamFarm
 unzip -d /usr/bin/ArchiSteamFarm ASF-linux-x64.zip
+chmod -R u+x /usr/bin/ArchiSteamFarm
 ```
 
 > :warning: **ASF-linux-x64.zip** must be extracted in **/usr/bin** because of **SELinux**.
