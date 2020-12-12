@@ -20,6 +20,7 @@ chmod -R u+x /usr/bin/ArchiSteamFarm
 
 ```
 cp ArchiSteamFarm.service /etc/systemd/system/
+chmod u+x /etc/systemd/system/ArchiSteamFarm.service
 systemctl daemon-reload
 systemctl start ArchiSteamFarm.service
 ```
